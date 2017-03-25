@@ -1,6 +1,7 @@
 # ng2-webcam
 
 > ng2-webcam is a cross-browser angular2 component, it will use the browser's native `getUserMedia()` implementation, otherwise a Flash fallback will be loaded instead.
+
 [![npm version](https://img.shields.io/npm/v/ng2-webcam.svg?style=flat-square)](https://www.npmjs.com/package/ng2-webcam)
 
 
